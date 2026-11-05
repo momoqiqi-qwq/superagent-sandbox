@@ -7,4 +7,4 @@ agent, which works on a ticket branch and replies with a pull request.
 
 - One issue, one change.
 - Pull requests are opened by the agent; a human merges them.
-- The agent recieves issues from this repository and replies with pull requests.
+- The agent receives issues from this repository and replies with pull requests.
